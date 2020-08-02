@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "28f14ff7d0bbefae95d2c5eb43b1a826",
+    "revision": "da9cfb8fcfd861ab89270f91fd869beb",
     "url": "/Life-Description/index.html"
   },
   {
-    "revision": "10234f991a49ee5a1bd4",
-    "url": "/Life-Description/static/css/main.011a486d.chunk.css"
+    "revision": "8488320c48aeeed5536d",
+    "url": "/Life-Description/static/css/main.24a2f76f.chunk.css"
   },
   {
-    "revision": "468c96ce27af5f592936",
-    "url": "/Life-Description/static/js/2.e552ba56.chunk.js"
+    "revision": "99390e6013697afbb90f",
+    "url": "/Life-Description/static/js/2.4a2c1a55.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/Life-Description/static/js/2.e552ba56.chunk.js.LICENSE.txt"
+    "url": "/Life-Description/static/js/2.4a2c1a55.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "10234f991a49ee5a1bd4",
-    "url": "/Life-Description/static/js/main.fbfc6deb.chunk.js"
+    "revision": "8488320c48aeeed5536d",
+    "url": "/Life-Description/static/js/main.d8ab10c7.chunk.js"
   },
   {
     "revision": "fe36ac91a3cdebe028e1",
@@ -36,6 +36,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Life-Description/static/media/SkillsBackground.874a400e.jpg"
   },
   {
+    "revision": "42b1970f11baf2014740225a2d668f60",
+    "url": "/Life-Description/static/media/Staliupaslaugos.42b1970f.png"
+  },
+  {
     "revision": "40ba872606d5b33575f43effebdebc64",
     "url": "/Life-Description/static/media/Vue.40ba8726.png"
   },
@@ -44,12 +48,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Life-Description/static/media/ca_logo.c274cd28.png"
   },
   {
+    "revision": "dccc72d8a12e23d73c891c2aceb29eb5",
+    "url": "/Life-Description/static/media/codepen.dccc72d8.png"
+  },
+  {
+    "revision": "0918d78648457def080137b179fc5608",
+    "url": "/Life-Description/static/media/gitHub.0918d786.png"
+  },
+  {
+    "revision": "898c0407d74c75fa110de76293d96ddd",
+    "url": "/Life-Description/static/media/linkedin.898c0407.png"
+  },
+  {
     "revision": "ce2f78a83193b00888335604ba11d95b",
     "url": "/Life-Description/static/media/myImg.ce2f78a8.jpeg"
   },
   {
     "revision": "f8dab57d048fabd69ea16c67e1615b86",
     "url": "/Life-Description/static/media/node.f8dab57d.png"
+  },
+  {
+    "revision": "bc2a55639cfefcedbc9c704ece799ed5",
+    "url": "/Life-Description/static/media/phone.bc2a5563.png"
   },
   {
     "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",

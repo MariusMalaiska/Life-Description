@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Life-Description/static/css/main.7a3fd83a.chunk.css",
-    "main.js": "/Life-Description/static/js/main.93bc09bb.chunk.js",
-    "main.js.map": "/Life-Description/static/js/main.93bc09bb.chunk.js.map",
+    "main.css": "/Life-Description/static/css/main.7f9a7bd1.chunk.css",
+    "main.js": "/Life-Description/static/js/main.9e6bde2d.chunk.js",
+    "main.js.map": "/Life-Description/static/js/main.9e6bde2d.chunk.js.map",
     "runtime-main.js": "/Life-Description/static/js/runtime-main.0e6ec1f7.js",
     "runtime-main.js.map": "/Life-Description/static/js/runtime-main.0e6ec1f7.js.map",
-    "static/js/2.4a2c1a55.chunk.js": "/Life-Description/static/js/2.4a2c1a55.chunk.js",
-    "static/js/2.4a2c1a55.chunk.js.map": "/Life-Description/static/js/2.4a2c1a55.chunk.js.map",
+    "static/js/2.c8bd7c07.chunk.js": "/Life-Description/static/js/2.c8bd7c07.chunk.js",
+    "static/js/2.c8bd7c07.chunk.js.map": "/Life-Description/static/js/2.c8bd7c07.chunk.js.map",
     "index.html": "/Life-Description/index.html",
-    "precache-manifest.2409215ccbe4a7b5063e68a596aa3465.js": "/Life-Description/precache-manifest.2409215ccbe4a7b5063e68a596aa3465.js",
+    "precache-manifest.03f50a80328904d7372e1591fe178c92.js": "/Life-Description/precache-manifest.03f50a80328904d7372e1591fe178c92.js",
     "service-worker.js": "/Life-Description/service-worker.js",
-    "static/css/main.7a3fd83a.chunk.css.map": "/Life-Description/static/css/main.7a3fd83a.chunk.css.map",
-    "static/js/2.4a2c1a55.chunk.js.LICENSE.txt": "/Life-Description/static/js/2.4a2c1a55.chunk.js.LICENSE.txt",
+    "static/css/main.7f9a7bd1.chunk.css.map": "/Life-Description/static/css/main.7f9a7bd1.chunk.css.map",
+    "static/js/2.c8bd7c07.chunk.js.LICENSE.txt": "/Life-Description/static/js/2.c8bd7c07.chunk.js.LICENSE.txt",
     "static/media/CSS.png": "/Life-Description/static/media/CSS.0fc9d143.png",
     "static/media/HTML.png": "/Life-Description/static/media/HTML.f2282f94.png",
     "static/media/index.scss": "/Life-Description/static/media/SkillsBackground.874a400e.jpg",
@@ -29,8 +29,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.0e6ec1f7.js",
-    "static/js/2.4a2c1a55.chunk.js",
-    "static/css/main.7a3fd83a.chunk.css",
-    "static/js/main.93bc09bb.chunk.js"
+    "static/js/2.c8bd7c07.chunk.js",
+    "static/css/main.7f9a7bd1.chunk.css",
+    "static/js/main.9e6bde2d.chunk.js"
   ]
 }

@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Life-Description/static/css/main.c66246ae.chunk.css",
-    "main.js": "/Life-Description/static/js/main.ae5dc60c.chunk.js",
-    "main.js.map": "/Life-Description/static/js/main.ae5dc60c.chunk.js.map",
+    "main.js": "/Life-Description/static/js/main.b5985f96.chunk.js",
+    "main.js.map": "/Life-Description/static/js/main.b5985f96.chunk.js.map",
     "runtime-main.js": "/Life-Description/static/js/runtime-main.0e6ec1f7.js",
     "runtime-main.js.map": "/Life-Description/static/js/runtime-main.0e6ec1f7.js.map",
-    "static/js/2.c8bd7c07.chunk.js": "/Life-Description/static/js/2.c8bd7c07.chunk.js",
-    "static/js/2.c8bd7c07.chunk.js.map": "/Life-Description/static/js/2.c8bd7c07.chunk.js.map",
+    "static/js/2.b326caa2.chunk.js": "/Life-Description/static/js/2.b326caa2.chunk.js",
+    "static/js/2.b326caa2.chunk.js.map": "/Life-Description/static/js/2.b326caa2.chunk.js.map",
     "index.html": "/Life-Description/index.html",
-    "precache-manifest.99849cd2c39dc7a39861d2a2783024b7.js": "/Life-Description/precache-manifest.99849cd2c39dc7a39861d2a2783024b7.js",
+    "precache-manifest.6ce808c4fa48dccd6f4c9ecf0d29e9e5.js": "/Life-Description/precache-manifest.6ce808c4fa48dccd6f4c9ecf0d29e9e5.js",
     "service-worker.js": "/Life-Description/service-worker.js",
     "static/css/main.c66246ae.chunk.css.map": "/Life-Description/static/css/main.c66246ae.chunk.css.map",
-    "static/js/2.c8bd7c07.chunk.js.LICENSE.txt": "/Life-Description/static/js/2.c8bd7c07.chunk.js.LICENSE.txt",
+    "static/js/2.b326caa2.chunk.js.LICENSE.txt": "/Life-Description/static/js/2.b326caa2.chunk.js.LICENSE.txt",
     "static/media/CSS.png": "/Life-Description/static/media/CSS.0fc9d143.png",
     "static/media/HTML.png": "/Life-Description/static/media/HTML.f2282f94.png",
     "static/media/index.scss": "/Life-Description/static/media/SkillsBackground.874a400e.jpg",
@@ -25,12 +25,13 @@
     "static/media/node.png": "/Life-Description/static/media/node.f8dab57d.png",
     "static/media/phone.png": "/Life-Description/static/media/phone.bc2a5563.png",
     "static/media/react.svg": "/Life-Description/static/media/react.5d5d9eef.svg",
-    "static/media/sass.png": "/Life-Description/static/media/sass.380e22e3.png"
+    "static/media/sass.png": "/Life-Description/static/media/sass.380e22e3.png",
+    "static/media/vinted-copy.png": "/Life-Description/static/media/vinted-copy.9d1d889f.png"
   },
   "entrypoints": [
     "static/js/runtime-main.0e6ec1f7.js",
-    "static/js/2.c8bd7c07.chunk.js",
+    "static/js/2.b326caa2.chunk.js",
     "static/css/main.c66246ae.chunk.css",
-    "static/js/main.ae5dc60c.chunk.js"
+    "static/js/main.b5985f96.chunk.js"
   ]
 }

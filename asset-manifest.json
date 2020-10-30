@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/Life-Description/static/css/main.c66246ae.chunk.css",
-    "main.js": "/Life-Description/static/js/main.13bd6152.chunk.js",
-    "main.js.map": "/Life-Description/static/js/main.13bd6152.chunk.js.map",
+    "main.css": "/Life-Description/static/css/main.3e5937e2.chunk.css",
+    "main.js": "/Life-Description/static/js/main.57cb0978.chunk.js",
+    "main.js.map": "/Life-Description/static/js/main.57cb0978.chunk.js.map",
     "runtime-main.js": "/Life-Description/static/js/runtime-main.0e6ec1f7.js",
     "runtime-main.js.map": "/Life-Description/static/js/runtime-main.0e6ec1f7.js.map",
-    "static/js/2.b326caa2.chunk.js": "/Life-Description/static/js/2.b326caa2.chunk.js",
-    "static/js/2.b326caa2.chunk.js.map": "/Life-Description/static/js/2.b326caa2.chunk.js.map",
+    "static/js/2.f15105e1.chunk.js": "/Life-Description/static/js/2.f15105e1.chunk.js",
+    "static/js/2.f15105e1.chunk.js.map": "/Life-Description/static/js/2.f15105e1.chunk.js.map",
     "index.html": "/Life-Description/index.html",
-    "precache-manifest.59c7ef9e9a8836cde95e742cc3633d5f.js": "/Life-Description/precache-manifest.59c7ef9e9a8836cde95e742cc3633d5f.js",
+    "precache-manifest.c5db3031104e51d8b46e4932cd7e377d.js": "/Life-Description/precache-manifest.c5db3031104e51d8b46e4932cd7e377d.js",
     "service-worker.js": "/Life-Description/service-worker.js",
-    "static/css/main.c66246ae.chunk.css.map": "/Life-Description/static/css/main.c66246ae.chunk.css.map",
-    "static/js/2.b326caa2.chunk.js.LICENSE.txt": "/Life-Description/static/js/2.b326caa2.chunk.js.LICENSE.txt",
+    "static/css/main.3e5937e2.chunk.css.map": "/Life-Description/static/css/main.3e5937e2.chunk.css.map",
+    "static/js/2.f15105e1.chunk.js.LICENSE.txt": "/Life-Description/static/js/2.f15105e1.chunk.js.LICENSE.txt",
     "static/media/CSS.png": "/Life-Description/static/media/CSS.0fc9d143.png",
     "static/media/HTML.png": "/Life-Description/static/media/HTML.f2282f94.png",
+    "static/media/Homepage.png": "/Life-Description/static/media/Homepage.445661a1.png",
     "static/media/index.scss": "/Life-Description/static/media/SkillsBackground.874a400e.jpg",
     "static/media/Staliupaslaugos.png": "/Life-Description/static/media/Staliupaslaugos.42b1970f.png",
     "static/media/Vue.png": "/Life-Description/static/media/Vue.40ba8726.png",
@@ -30,8 +31,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.0e6ec1f7.js",
-    "static/js/2.b326caa2.chunk.js",
-    "static/css/main.c66246ae.chunk.css",
-    "static/js/main.13bd6152.chunk.js"
+    "static/js/2.f15105e1.chunk.js",
+    "static/css/main.3e5937e2.chunk.css",
+    "static/js/main.57cb0978.chunk.js"
   ]
 }

@@ -1,0 +1,61 @@
+.Header {
+  position: sticky;
+  width: 100%;
+  top: 0;
+  background-color: rgba(var(--Dark-main-decimal), 0.9);
+  overflow: hidden;
+  z-index: 2;
+
+  .Header-list {
+    display: flex;
+    list-style: none;
+    align-items: center;
+    justify-content: space-between;
+    margin: unset;
+    padding: unset;
+
+    .Header-list-line {
+      .My-img {
+        height: 80px;
+        width: 80px;
+        border-radius: 100px;
+        // margin-right: 10px;
+        object-fit: cover;
+        margin: 10px 10px 10px 0px;
+      }
+      .Header-list-name {
+        color: var(--Dark-main);
+      }
+    }
+  }
+  .Language--btn {
+    position: absolute;
+    top: 0;
+    right: 0;
+    color: var(--Default-main);
+    padding: 5px 5px 30px 30px;
+    background-color: transparent;
+    border: none;
+    &:focus {
+      outline: 0;
+    }
+    &::before {
+      content: "";
+      position: absolute;
+      top: -35px;
+      right: -35px;
+      height: 50px;
+      width: 100px;
+      transform: rotate(45deg);
+      background-color: var(--Dark-main);
+      z-index: -1;
+    }
+  }
+}
+
+@media only screen and (min-width: 800px) {
+  .Header-list {
+    width: 100%;
+    max-width: 300px;
+  }
+}

@@ -1,0 +1,58 @@
+.Project {
+  display: flex;
+  align-items: center;
+}
+
+.Project--link {
+  text-decoration: none;
+}
+
+.Desktop--picture{
+  position: relative;
+  width: 100%;
+  display: block;
+  object-fit: cover;
+
+  .Overlay{
+    position: absolute;
+    text-align: center;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    font-family: 'Playfair Display', serif;
+    font-weight: 600;
+    font-size: 24px;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: rgba(0,0,0,0.4);
+    margin: unset;
+    padding: 30px;
+    box-sizing:border-box;
+    color: var(--Default-main);
+    &:hover{
+      opacity: 1;
+    }
+  }
+}
+
+.Project--img {
+  width: 100%;
+  object-fit: cover;
+}
+
+.Project--name {
+  text-align: center;
+}
+
+@media only screen and (max-width: 800px) {
+
+  .Desktop{display: none;}
+}
+@media only screen and (min-width: 800px) {
+  .Projects {
+    max-width: 50%;
+  }
+}

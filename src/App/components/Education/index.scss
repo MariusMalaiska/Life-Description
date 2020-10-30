@@ -1,0 +1,25 @@
+.Education--list {
+  list-style: none;
+  margin: unset;
+  padding: unset;
+}
+.Education--list--line {
+  margin: unset;
+  padding: unset;
+  p {
+    margin: 5px;
+  }
+}
+.Education--list--Date {
+  color: var(--Default-main);
+}
+.Education--list--box {
+  display: flex;
+  align-items: flex-start;
+  margin: 20px 0px;
+}
+.Education--logo {
+  width: 80px;
+  object-fit: contain;
+  margin-right: 20px;
+}

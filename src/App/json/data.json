@@ -1,0 +1,130 @@
+{
+  "En": {
+    "header": {
+      "title": "Marius Malaiška"
+    },
+    "about": {
+      "title": "About",
+      "text": "I was always passionate about technologies. I'm interested in IoT development and coding as a hobby, so I decided to pursue that hobby and try my hand at Software Development. After a year of studying I'm ready to start working as a Junior Front-End Developer.  Looking for a company full of smart people to learn from them and expand my skills."
+    },
+    "skills": {
+      "title": "Skills"
+    },
+    "education": {
+      "title": "Education",
+      "classone": {
+        "title": "Code Academy",
+        "date": "2019-2020",
+        "about": "Front-end advanced level courses"
+      },
+      "classtwo": {
+        "title": "Code Academy",
+        "date": "2019-2019",
+        "about": "Front-end entry level courses"
+      }
+    },
+    "projects": {
+      "title": "Projects",
+      "projectone": {
+        "title": "Staliupaslaugos.lt",
+        "herf": "https://staliupaslaugos.lt/"
+      },
+      "projecttwo": {
+        "title": "Vinted-Copy",
+        "herf": "https://codepen.io/marius-malaika"
+      },
+      "projectthree": {
+        "title": "Homepage",
+        "herf": "https://mariusmalaiska.github.io/homepage/",
+        "intro": "I know how hard it is to remember important things. I made this homepage for you so you won't forget me. ;D"
+      }
+    },
+    "contacts": {
+      "title": "Contacts",
+      "github": {
+        "title": "GitHub / Marius Malaiska",
+        "herf": "https://github.com/MariusMalaiska"
+      },
+      "codepen": {
+        "title": "CodePen / Marius Malaika",
+        "herf": "https://codepen.io/marius-malaika"
+      },
+      "linkedin": {
+        "title": "LinkedIn / Marius Malaika",
+        "herf": "https://www.linkedin.com/in/marius-malai%C5%A1ka-b2146a141/"
+      },
+      "email": {
+        "title": "MariusMalaiska@gmail.com",
+        "herf": "mailto:MariusMalaiska@gmail.com"
+      },
+      "phone": {
+        "title": "860516387",
+        "herf": "tel:860516387"
+      }
+    }
+  },
+  "Lt": {
+    "header": {
+      "title": "Marius Malaiška"
+    },
+    "about": {
+      "title": "Apie",
+      "text": "Tikiu, jog su užduotimis galiu susidoroti pakankamai lengvai , nes iššūkiai man patinka ir jiems esu visada pasiruošęs. Tikiu, jog bet koks darbas turi skatinti žmogų tobulėti, būtent todėl esu visada nusiteikęs įdėti daugiau pastangų į atliekamą darbą."
+    },
+    "skills": {
+      "title": "Įgūdžiai"
+    },
+    "education": {
+      "title": "Išsilavinimas",
+      "classone": {
+        "title": "Code Academy",
+        "date": "2019-2020",
+        "about": "Front-end pažengusiųjų kursai"
+      },
+      "classtwo": {
+        "title": "Code Academy",
+        "date": "2019-2019",
+        "about": "Front-end pradedančiųjų kursai"
+      }
+    },
+    "projects": {
+      "title": "Projektai",
+      "projectone": {
+        "title": "Staliupaslaugos.lt",
+        "herf": "https://staliupaslaugos.lt/"
+      },
+      "projecttwo": {
+        "title": "Vinted-Copy",
+        "herf": "https://mariusmalaiska.github.io/Vinted-copy-frontend/"
+      },
+      "projectthree": {
+        "title": "Homepage",
+        "herf": "https://mariusmalaiska.github.io/homepage/",
+        "intro": "Žinau kaip kartais sunku atsiminti svarbius dalykus užsivertus dienos darbais. Kadangi nenoriu būti pamirštas, sukūriau Jūsų naršyklei pradini puslapį padėsianti mane atsiminti. ;D"
+      }
+    },
+    "contacts": {
+      "title": "Kontaktai",
+      "github": {
+        "title": "GitHub / Marius Malaiska",
+        "herf": "https://github.com/MariusMalaiska"
+      },
+      "codepen": {
+        "title": "CodePen / Marius Malaika",
+        "herf": "https://codepen.io/marius-malaika"
+      },
+      "linkedin": {
+        "title": "LinkedIn / Marius Malaika",
+        "herf": "https://www.linkedin.com/in/marius-malai%C5%A1ka-b2146a141/"
+      },
+      "email": {
+        "title": "MariusMalaiska@gmail.com",
+        "herf": "mailto:MariusMalaiska@gmail.com"
+      },
+      "phone": {
+        "title": "860516387",
+        "herf": "tel:860516387"
+      }
+    }
+  }
+}
